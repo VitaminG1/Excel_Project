@@ -1,2 +1,2 @@
 # Projects
-Forecasting is a technique that uses historical data as inputs to make informed estimates that are predictive in determining the direction of future trends.
+Forecasting is a technique that uses historical data as inputs to make informed estimates that are predictive in determining the direction of future trends. In this project we had used Property sales data to forecast the sales for next five years. The trend analysis is done using moving average and linear regression. We had used Navie forecasting techniques to determine upcoming trend for next year and we had found that propery sales is started decine from year 2017 and it will continue till 2020.
